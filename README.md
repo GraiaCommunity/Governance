@@ -9,4 +9,6 @@
 
 ## 许可证
 
-本仓库内文件使用 [`CC-BY-SA 4.0`](https://creativecommons.org/licenses/by-sa/4.0/) 协议作为许可证.
+本仓库内:
+- 文本文件使用 [`CC-BY-SA 4.0`](https://creativecommons.org/licenses/by-sa/4.0/) 协议作为许可证.
+- 二进制文件使用 [`CC-BY-NC-SA 4.0`](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议作为许可证.
